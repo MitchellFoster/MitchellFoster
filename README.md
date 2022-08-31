@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Mitch and I am a student at ODU.
 
 <!--
 **MitchellFoster/MitchellFoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
