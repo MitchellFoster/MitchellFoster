@@ -1,6 +1,6 @@
 ### Hi there 👋
-### My name is Mitch and I am a student at ODU.
-- 🌱 I’m currently learning ...
+My name is ✨ Mitch ✨ and I am a senior at ODU.
+- 🌱 I’m currently learning on how to make video games from coding to creating assets
 
 <!--
 **MitchellFoster/MitchellFoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
