@@ -5,7 +5,3 @@
 Currently interested in Level Design and looking for work.
 
 [Portfolio Website](http://mitch-foster.com/)
-
-```
-Let's Game
-```
